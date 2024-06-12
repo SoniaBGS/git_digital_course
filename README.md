@@ -11,5 +11,12 @@
 ### Git restore
 - o uso do comando `git restore` volta a uma versão anterior modificada, fazendo o arquivo voltar ao estado modified ou `git restore` pararetornar de modified.
 
-### Git push e Git pull
+### Git push 
+- envia modificações do repositório local para o github.
+
+### Git pull
+- envia alterações no código da plataforma para o local.
+  
+### Git fetch
+- verifica o que de fato está sendo enviado. Depoi usamos `git diff` para ver as modificaçoes e por fim atualizamos o código local com `git pull`,
 
