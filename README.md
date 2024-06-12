@@ -11,5 +11,9 @@
 ### Git restore
 - o uso do comando `git restore` volta a uma versão anterior modificada, fazendo o arquivo voltar ao estado modified ou `git restore` pararetornar de modified.
 
+<<<<<<< HEAD
 ### Git push e pull
+=======
+### Git push e Git pull
+>>>>>>> 57f93591114d74ea7d1e5f89bb0e0aa63238560a
 
