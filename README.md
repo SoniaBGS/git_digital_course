@@ -21,3 +21,5 @@
 - verifica o que de fato está sendo enviado. Depoi usamos `git diff` para ver as modificaçoes e por fim atualizamos o código local com `git pull`,
 
 ### Git branch e raminficações do código
+
+### Merging branches
