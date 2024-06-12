@@ -18,5 +18,5 @@
 - envia alterações no código da plataforma para o local.
   
 ### Git fetch
-- verifica o que de fato está sendo enviado . 
+- verifica o que de fato está sendo enviado. Depoi usamos `git diff` para ver as modificaçoes e por fim atualizamos o código local com `git pull`,
 
